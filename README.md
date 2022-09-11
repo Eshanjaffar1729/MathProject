@@ -1,4 +1,4 @@
-<h1 align="center"><u>Analysing the correlation between time and share price of NSE: HAVELLS</h1>
+<h1 align="center"><u>Analysing the correlation between time and share price of HAVELLS</h1>
 </u></h1>
 <br>
 <br>
