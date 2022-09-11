@@ -1,4 +1,5 @@
-<h1 align="center"><u> Stock Trend Predictor</u></h1>
+<h1 align="center"><u>Analysing the correlation between time and share price of NSE: HAVELLS</h1>
+</u></h1>
 <br>
 <br>
 <h2>INTRODUCTION</h2>
