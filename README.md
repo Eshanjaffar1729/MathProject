@@ -1,5 +1,4 @@
-<h1 align="center"><u>Analysing the correlation between time and share price of MindTree Ltd</h1>
-</u></h1>
+<h1 align="center"><u>Analysing the correlation between time and share price of MindTree</u></h1>
 <br>
 <br>
 <h2>INTRODUCTION</h2>
